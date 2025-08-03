@@ -5,8 +5,8 @@
 
 This is the official repository for our **ICCV 2025** paper.
 
-🔗 [Read the paper (PDF)](./FastSpeech2-Enhanced.pdf)  
-📊 [Project Page](https://yourdemo.link)  
+🔗 [Read the paper (PDF)](./static/paper.pdf)  
+📊 [Project Page](https://usl-vi=reid.github.io/MCL)  
 
 ## Abstract
 
