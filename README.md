@@ -6,7 +6,7 @@
 This is the official repository for our **ICCV 2025** paper.
 
 🔗 [Read the paper (PDF)](./static/paper.pdf)  
-📊 [Project Page](https://usl-vi=reid.github.io/MCL)  
+📊 [Project Page](https://usl-vi-reid.github.io/MCL)  
 
 ## Abstract
 
