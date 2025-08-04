@@ -1,12 +1,14 @@
-# Unsupervised Visible-Infrared Person Re-identification under Unpaired Settings (ICCV 2025)
+<h1 align="center">
+Unsupervised Visible-Infrared Person <br>
+Re-identification under Unpaired Settings
+</h1>
 
 ![License](https://img.shields.io/badge/License-MIT-red)
-![Conference](https://img.shields.io/badge/ICCV-2025-blue)
+[![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://usl-vi-reid.github.io/MCL/)
+[![arXiv](https://img.shields.io/badge/arXiv-Pdf-b31b1b.svg)](https://www.arxiv.org/)
 
-This is the official repository for our **ICCV 2025** paper.
+Official github for "Unsupervised Visible-Infrared Person Re-identification under Unpaired Settings".
 
-🔗 [Read the paper (PDF)](./static/paper.pdf)  
-📊 [Project Page](https://usl-vi-reid.github.io/MCL)  
 
 ## Abstract
 
