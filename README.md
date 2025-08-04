@@ -24,10 +24,10 @@ Unsupervised visible-infrared person re-identification (USL-VI-ReID) aims to tra
 
 ## 🔗 Resources
 
-- 📄 [Paper](https://arxiv.org/)  
-- 🌐 [Project Website](https://usl-vi-reid.github.io/MCL/)  
-- 🖼️ [Figures & Diagrams](./figures) *(if applicable)*  
-- 🎞️ [Slides or Poster](./slides) *(optional)*
+- [Paper](https://arxiv.org/)  
+- [Project Website](https://usl-vi-reid.github.io/MCL/)
+- [Supplementary Materials](https://usl-vi-reid.github.io/MCL/)
+- [Poster](./slides) *(optional)*
 
 ## 📚 Citation
 If you find our work useful, please consider citing:
