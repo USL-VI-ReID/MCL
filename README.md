@@ -7,10 +7,12 @@ Re-identification under Unpaired Settings
 [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://usl-vi-reid.github.io/MCL/)
 [![arXiv](https://img.shields.io/badge/arXiv-Pdf-b31b1b.svg)](https://www.arxiv.org/)
 
-Official github for "Unsupervised Visible-Infrared Person Re-identification under Unpaired Settings".
+## 🚀 Official Project Page
 
+> **_This is the official project page for_**  
+> **"Unsupervised Visible-Infrared Person Re-identification under Unpaired Settings"**
 
-## Abstract
+## ✏️ Abstract
 
 Unsupervised visible-infrared person re-identification (USL-VI-ReID) aims to train a cross-modality retrieval model without labels, reducing the reliance on expensive cross-modality manual annotation. However, existing USL-VI-ReID methods rely on artificially cross-modality paired data as implicit supervision, which is also expensive for human annotation and contrary to the setting of unsupervised tasks. In addition, this full alignment of identity across modalities is inconsistent with real-world scenarios, where unpaired settings are prevalent. To this end, we study the USL-VI-ReID task under unpaired settings, which uses cross-modality unpaired and unlabeled data for training a VI-ReID model. We propose a novel Mapping and Collaborative Learning (MCL) framework. Specifically, we first design a simple yet effective Cross-modality Feature Mapping (CFM) module to map and generate fake cross-modality positive feature pairs, constructing a cross-modal pseudo-identity space for feature alignment. Then, a Static-Dynamic Collaborative (SDC) learning strategy is proposed to align cross-modality correspondences through a collaborative approach, eliminating inter-modality discrepancies across different aspects \ie, cluster-level and instance-level, in scenarios with cross-modal identity mismatches. Extensive experiments on the conducted SYSU-MM01 and RegDB benchmarks under paired and unpaired settings demonstrate that our proposed MCL significantly outperforms existing unsupervised methods, facilitating USL-VI-ReID to real-world deployment.
 
@@ -19,7 +21,7 @@ Unsupervised visible-infrared person re-identification (USL-VI-ReID) aims to tra
 </p>
 
 
-## Highlighting
+## 🌟 Highlighting
 
 - We formally characterize the prevalent unpaired settings encountered in real-world scenarios and introduce the first public visible-infrared pedestrian benchmarks under such conditions.
 - We propose a novel Mapping and Collaborative Learning (MCL) framework to address the problem of lacking cross-modality paired and labeled data under unpaired settings.
@@ -27,7 +29,11 @@ Unsupervised visible-infrared person re-identification (USL-VI-ReID) aims to tra
 - Extensive experiments on two benchmark datasets demonstrate that the proposed framework surpasses existing state-of-the-art USL-VI-ReID methods in unpaired settings, while maintaining competitive performance under paired scenarios.
 
 
-## Licensing
+## 📚 Citation
+If you find our work useful, please consider citing:
+
+
+## 📄 Licensing
 
 This repository is released under the [MIT License](https://opensource.org/licenses/MIT). 
 
