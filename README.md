@@ -3,9 +3,7 @@ Unsupervised Visible-Infrared Person <br>
 Re-identification under Unpaired Settings
 </h1>
 
-![License](https://img.shields.io/badge/License-MIT-red)
 [![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://usl-vi-reid.github.io/MCL/)
-[![Paper](https://img.shields.io/badge/Paper-Pdf-b31b1b.svg)](https://www.arxiv.org/)
 
 ## 🚀 Official Project Page
 
