@@ -17,11 +17,3 @@ Unsupervised visible-infrared person re-identification (USL-VI-ReID) aims to tra
 <p align="center">
   <img src="https://github.com/user-attachments/assets/15a6dc8a-1024-4d1e-b96d-e0d791236735" alt="overview" style="width:75%;">
 </p>
-
-
-## Licensing
-
-This repository is released under the [MIT License](https://opensource.org/licenses/MIT). 
-
-This page was built using the [Academic Project Page Template](https://github.com/eliahuhorwitz/Academic-project-page-template).  
-This website is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
