@@ -8,7 +8,7 @@ Re-identification under Unpaired Settings
 > **_This is the official repository for_**  
 > **"Unsupervised Visible-Infrared Person Re-identification under Unpaired Settings"**
 
-As we are preparing a journal extension of this work, the code is currently being organized and will be released following the journal submission.
+We are preparing a journal extension of this work, and the implement is currently being organized and will be released soon.
 
 ## Abstract
 
@@ -17,9 +17,6 @@ Unsupervised visible-infrared person re-identification (USL-VI-ReID) aims to tra
 <p align="center">
   <img src="https://github.com/user-attachments/assets/15a6dc8a-1024-4d1e-b96d-e0d791236735" alt="overview" style="width:75%;">
 </p>
-
-## Citation
-If you find our work useful, please consider citing:
 
 
 ## Licensing
