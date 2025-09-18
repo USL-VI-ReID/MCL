@@ -8,7 +8,7 @@ Re-identification under Unpaired Settings
 > **_This is the official repository for_**  
 > **"Unsupervised Visible-Infrared Person Re-identification under Unpaired Settings"**
 
-We are preparing a journal extension of this work, and the implement is currently being organized and will be released soon.
+We are preparing a journal extension of this work, and the implement is currently being organized and will be updated soon.
 
 ## Abstract
 
