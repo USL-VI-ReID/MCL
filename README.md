@@ -17,3 +17,6 @@ Unsupervised visible-infrared person re-identification (USL-VI-ReID) aims to tra
 <p align="center">
   <img src="https://github.com/user-attachments/assets/15a6dc8a-1024-4d1e-b96d-e0d791236735" alt="overview" style="width:75%;">
 </p>
+
+## Contact
+yhy04022@gmail.com
