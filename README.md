@@ -19,4 +19,4 @@ Unsupervised visible-infrared person re-identification (USL-VI-ReID) aims to tra
 </p>
 
 ## Contact
-yhy04022@gmail.com
+yhy040222@gmail.com
