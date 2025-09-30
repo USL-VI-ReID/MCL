@@ -3,7 +3,7 @@ Unsupervised Visible-Infrared Person <br>
 Re-identification under Unpaired Settings
 </h1>
 
-The project is under construction and will be continuously updated.
+The project will be continuously updated.
 
 ## Abstract
 
