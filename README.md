@@ -3,7 +3,7 @@ Unsupervised Visible-Infrared Person <br>
 Re-identification under Unpaired Settings
 </h1>
 
-The implement is being organized and will be continuously updated.
+The implement is actively being organized and will be continuously updated.
 
 ## Abstract
 
