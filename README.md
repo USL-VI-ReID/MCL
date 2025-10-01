@@ -1,9 +1,6 @@
-<h1 align="center">
-Unsupervised Visible-Infrared Person <br>
-Re-identification under Unpaired Settings
-</h1>
+# Unsupervised Visible-Infrared Person Re-identification under Unpaired Settings
 
-The implement is actively being organized and will be continuously updated.
+The *official* repository for Unsupervised Visible-Infrared Person Re-identification under Unpaired Settings. The implement is being organized and will be updated public soon.
 
 ## Abstract
 
