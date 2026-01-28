@@ -1,6 +1,8 @@
 # Unsupervised Visible-Infrared Person Re-identification under Unpaired Settings
 
-The *official* repository for Unsupervised Visible-Infrared Person Re-identification under Unpaired Settings.
+The *official* repository for Unsupervised Visible-Infrared Person Re-identification under Unpaired Settings. 
+
+> This paper is currently being extended for a journal submission🌟, and the updated implementation will be released after the extension is completed.
 
 ## Abstract
 
