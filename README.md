@@ -2,7 +2,7 @@
 
 The *official* repository for Unsupervised Visible-Infrared Person Re-identification under Unpaired Settings. 
 
-> We are currently preparing an extended version of the paper for journal submission. The updated version and code will be released after the revision is complete. Thank you for your interest and support. 🙂
+> We are currently preparing an extended version of the paper for journal submission. The updated version and code will be released after the revision is complete. Thank you for your interest and support.
 
 ## Abstract
 
